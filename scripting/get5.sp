@@ -180,11 +180,11 @@ Handle g_OnEvent = INVALID_HANDLE;
 #include "get5/version.sp"
 
 public Plugin myinfo = {
-    name = "Get5",
-    author = "splewis",
-    description = "",
-    version = PLUGIN_VERSION,
-    url = "https://github.com/splewis/get5"
+  name = "Get5",
+  author = "splewis",
+  description = "",
+  version = PLUGIN_VERSION,
+  url = "https://github.com/splewis/get5"
 };
 
 /**

@@ -34,11 +34,11 @@ ConVar g_ForceMatchIDCvar;
 bool g_DisableStats = false;
 
 public Plugin myinfo = {
-    name = "Get5 MySQL stats",
-    author = "splewis",
-    description = "Records match stats collected by get5 to MySQL",
-    version = PLUGIN_VERSION,
-    url = "https://github.com/splewis/get5"
+  name = "Get5 MySQL stats",
+  author = "splewis",
+  description = "Records match stats collected by get5 to MySQL",
+  version = PLUGIN_VERSION,
+  url = "https://github.com/splewis/get5"
 };
 
 public void OnPluginStart() {
